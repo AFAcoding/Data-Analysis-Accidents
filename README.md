@@ -1,9 +1,9 @@
 # Mapping the Impact: Data-Driven Insights into Accident Prevention
 
-**Introduction**
+### **Introduction**
 Understanding the factors that contribute to road accidents is crucial for developing effective prevention strategies. This report analyzes various aspects of traffic accidents, including crash types, injury severity, accident timing, lighting conditions, roadway surface conditions, and the role of road defects. By identifying patterns and trends in accident occurrences, this analysis aims to provide data-driven insights that can inform policies and initiatives to enhance road safety.
 
-**Analysis of Accident Trends**
+### **Analysis of Accident Trends**
 Among the different types of crashes, turning accidents are the most prevalent, accounting for 30.65% of all recorded incidents. This is followed by angle crashes, which represent 24.96%, and rear-end collisions, which make up 20.07%. Sideswipe accidents account for 9.61%, while pedestrian-related crashes and other types contribute to the remaining percentage. The high incidence of turning and angle crashes suggests that intersections and junctions are particularly vulnerable points in traffic flow, highlighting the need for improved traffic signal coordination, clearer road markings, and greater driver awareness in these areas.
 
 When examining the severity of injuries resulting from crashes, more than half of all accidents, around 56.08%, result in no injury or involve only minor damage that allows vehicles to drive away. However, 43.92% of accidents lead to injuries or require vehicles to be towed due to damage. While fatal accidents make up only 1.86% of total crashes, incapacitating injuries are observed in 38.10% of cases. These figures emphasize the importance of continued efforts to reduce the occurrence of severe crashes, particularly those leading to long-term physical consequences for those involved.
@@ -18,7 +18,7 @@ Another factor influencing accident severity is the condition of the roadway. Th
 
 The condition of the roadway surface also plays a significant role in fatal accidents. The data shows that 79.22% of fatal injuries occur on dry roads, compared to 16.72% on wet roads. Snow, slush, ice, and other surface conditions contribute to a smaller percentage of crashes. These findings suggest that while wet and icy roads are often perceived as dangerous, drivers tend to exercise greater caution under such conditions. In contrast, on dry roads, higher speeds and overconfidence may contribute to a greater number of severe crashes. Increased enforcement of speed limits, road safety awareness campaigns, and infrastructure improvements can help mitigate the risks associated with driving on dry roads.
 
-**Conclusion and Recommendations**
+### **Conclusion and Recommendations**
 This analysis highlights several key factors influencing accident occurrences and severity, providing valuable insights into potential preventive measures. The high frequency of turning and angle crashes suggests that improving intersection management, enhancing traffic signal coordination, and increasing driver awareness at junctions could help reduce accident rates. Addressing the risks associated with peak traffic hours through congestion management strategies, such as staggered work schedules and expanded public transportation options, can further contribute to reducing accident frequency.
 
 The impact of lighting conditions on accident severity underscores the need for better nighttime road visibility, including the implementation of reflective road markings and high-visibility pedestrian crossings. Encouraging safe driving habits, particularly on dry roads where fatal crashes are most prevalent, is also critical. Speed awareness campaigns, stricter enforcement of speed limits, and the use of speed monitoring technologies can help mitigate risks.
