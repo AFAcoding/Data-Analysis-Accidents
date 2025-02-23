@@ -1,4 +1,4 @@
-#Mapping the Impact: Data-Driven Insights into Accident Prevention
+# Mapping the Impact: Data-Driven Insights into Accident Prevention
 
 **Introduction**
 Understanding the factors that contribute to road accidents is crucial for developing effective prevention strategies. This report analyzes various aspects of traffic accidents, including crash types, injury severity, accident timing, lighting conditions, roadway surface conditions, and the role of road defects. By identifying patterns and trends in accident occurrences, this analysis aims to provide data-driven insights that can inform policies and initiatives to enhance road safety.
